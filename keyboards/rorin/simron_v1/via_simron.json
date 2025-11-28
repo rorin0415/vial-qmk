@@ -1,7 +1,7 @@
 {
   "name": "simron",
   "vendorId": "0xA415",
-  "productId": "0xB123",
+  "productId": "0x0001",
   "matrix": { "rows": 4, "cols": 10 },
   "layouts": {
     "keymap": [

@@ -1,5 +1,5 @@
 {
-  "name": "simron",
+  "name": "simron prototype",
   "vendorId": "0xA415",
   "productId": "0xB123",
   "matrix": { "rows": 4, "cols": 10 },
